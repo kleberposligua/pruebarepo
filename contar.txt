@@ -2,6 +2,8 @@
 main()
 {
 cout<<"Hola mundo";
-coput<<"Gordito";
+cout<<"Gordito";
+cout<<"gordo";
+
 return 0;
 }
