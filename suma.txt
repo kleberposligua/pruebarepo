@@ -1,1 +1,3 @@
-la suma es
+la suma es 10
+la resta es 6
+
