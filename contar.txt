@@ -15,4 +15,7 @@ funcion suma(int a, int b)
   return (a+b);
 }
 
-
+function resta()
+{
+  return 0;
+}
